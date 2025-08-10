@@ -27,5 +27,3 @@ python src/eval_notes.py
 - Accuracy-style metrics (precision/recall/F1 for extraction; simple accuracy for triage).
 - Utility signals (accept/override rate, cycle-time reduction) — captured during pilot.
 - Cost/latency placeholders to estimate real-world feasibility.
-
-Created: 2025-08-10
