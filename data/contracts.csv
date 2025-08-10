@@ -1,0 +1,3 @@
+contract_id,text,payment_terms,warranty,termination
+101,Payment due within 30 days of invoice. The seller warrants materials for 24 months. Either party may terminate with 60 days notice.,30 days,24 months,60 days notice
+102,Buyer shall pay within 45 days. Warranty is limited to 12 months. Termination permitted for breach with 30 days cure period.,45 days,12 months,breach with 30 days cure
